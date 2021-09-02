@@ -1,6 +1,6 @@
 # Guessing_Number_Game_using_C_language-
-Guessing_Number_Game using_C_language .
-PROBLEM 1:- This is going to be fun!
+Guessing_Number_Game using_C_language .<br>
+<b>PROBLEM 1</b>:- This is going to be fun!
             We will write a program that generatesa random number and asks the players to guess it if the players. 
             Guess is higher than the actual number the program display.
             "Lower number please" Similarly  if the user gusse is too low the program prints, 
